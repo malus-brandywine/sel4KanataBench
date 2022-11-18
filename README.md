@@ -1,1 +1,3 @@
-# sel4KanataBench
+### sel4KanataBench
+
+Experimental microbenchmarking project
